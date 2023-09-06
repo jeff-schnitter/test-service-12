@@ -1,0 +1,11 @@
+openapi: 3.0.1
+info:
+  title: Test Service 12
+  x-cortex-git:
+    github:
+      repository: jeff-schnitter/test-service-12
+  x-cortex-tag: test-service-12
+  x-cortex-type: service
+  x-cortex-owners:
+  - type: EMAIL
+    email: jeff.schnitter@cortex.io
